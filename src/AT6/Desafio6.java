@@ -1,7 +1,7 @@
 package AT6;
 
 public class Desafio6 {
-    public void main(String[] args){
+    public static void main(String[] args){
         //DESAFIO  6  //
 
         String desafio06 =  "Desafio 6";
