@@ -8,7 +8,6 @@ public class Desafio1 {
         System.out.println(desafio01);
         System.out.println();
 
-
         String nome = "Israel";
         String sobrenome = "Junior";
 
@@ -29,17 +28,6 @@ public class Desafio1 {
         String cpf = "400.289.222-98";
         System.out.println("CPF: " + cpf);
         System.out.println();
-
-        //DESAFIO  3  //
-        String desafio03 =  "Desafio 3";
-        System.out.println(desafio03);
-        System.out.println();
-
-
-
-
-
-
 
     }
 }
